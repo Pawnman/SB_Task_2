@@ -47,7 +47,7 @@
 
 <p>
 <figure>
-   <img src="./Images/img_5.png" width="600"/>
+   <img src="./Images/img_6.png" width="600"/>
    <figcaption>
      Рисунок 6 - Скриншот сцены: ракурс 6
    </figcaption>
